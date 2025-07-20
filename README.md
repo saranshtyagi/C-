@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/saranshtyagi/C-/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/saranshtyagi/C-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saranshtyagi/C-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/saranshtyagi/C-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/saranshtyagi/C-/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/saranshtyagi/C-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saranshtyagi/C-/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/saranshtyagi/C-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/saranshtyagi/C-/tree/master/0078-subsets) |
