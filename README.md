@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saranshtyagi/C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/saranshtyagi/C-/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/saranshtyagi/C-/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
