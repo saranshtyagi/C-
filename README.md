@@ -28,5 +28,14 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/saranshtyagi/C-/tree/master/0051-n-queens) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
