@@ -28,6 +28,7 @@
 | [0051-n-queens](https://github.com/saranshtyagi/C-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/saranshtyagi/C-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
+| [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0051-n-queens](https://github.com/saranshtyagi/C-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/saranshtyagi/C-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
+| [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
 ## String
 |  |
 | ------- |
@@ -48,8 +50,10 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
+| [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/saranshtyagi/C-/tree/master/0078-subsets) |
+| [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
 <!---LeetCode Topics End-->
