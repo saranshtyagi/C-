@@ -16,6 +16,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saranshtyagi/C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Tree
 |  |
@@ -25,17 +26,24 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/saranshtyagi/C-/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/saranshtyagi/C-/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
