@@ -55,6 +55,7 @@
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/saranshtyagi/C-/tree/master/0093-restore-ip-addresses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/saranshtyagi/C-/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Dynamic Programming
 |  |
 | ------- |
