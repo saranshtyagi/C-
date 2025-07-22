@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/saranshtyagi/C-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/saranshtyagi/C-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saranshtyagi/C-/tree/master/0051-n-queens) |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/saranshtyagi/C-/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
