@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
+| [0338-counting-bits](https://github.com/saranshtyagi/C-/tree/master/0338-counting-bits) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
 ## Matrix
 |  |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/saranshtyagi/C-/tree/master/0078-subsets) |
+| [0338-counting-bits](https://github.com/saranshtyagi/C-/tree/master/0338-counting-bits) |
 | [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/saranshtyagi/C-/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
