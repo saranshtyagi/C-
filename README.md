@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/saranshtyagi/C-/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/saranshtyagi/C-/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/saranshtyagi/C-/tree/master/0338-counting-bits) |
 | [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saranshtyagi/C-/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/saranshtyagi/C-/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
