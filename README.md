@@ -58,6 +58,7 @@
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/saranshtyagi/C-/tree/master/0093-restore-ip-addresses) |
+| [0242-valid-anagram](https://github.com/saranshtyagi/C-/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/saranshtyagi/C-/tree/master/0392-is-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/saranshtyagi/C-/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Dynamic Programming
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saranshtyagi/C-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/saranshtyagi/C-/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,4 +105,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0392-is-subsequence](https://github.com/saranshtyagi/C-/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/saranshtyagi/C-/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
