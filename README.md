@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saranshtyagi/C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/saranshtyagi/C-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/saranshtyagi/C-/tree/master/0046-permutations) |
@@ -99,6 +100,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saranshtyagi/C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/saranshtyagi/C-/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/saranshtyagi/C-/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saranshtyagi/C-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
