@@ -38,6 +38,7 @@
 | [1331-path-with-maximum-gold](https://github.com/saranshtyagi/C-/tree/master/1331-path-with-maximum-gold) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/saranshtyagi/C-/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saranshtyagi/C-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saranshtyagi/C-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/saranshtyagi/C-/tree/master/0242-valid-anagram) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saranshtyagi/C-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saranshtyagi/C-/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saranshtyagi/C-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
