@@ -39,6 +39,7 @@
 | [1331-path-with-maximum-gold](https://github.com/saranshtyagi/C-/tree/master/1331-path-with-maximum-gold) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/saranshtyagi/C-/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/saranshtyagi/C-/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saranshtyagi/C-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
