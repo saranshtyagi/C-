@@ -5,8 +5,8 @@ public:
         int ans = 0;
 
         while(left <= right) {
-            int mid = left + (right - left) / 2;
-            int m_sq = mid * mid; 
+            long long mid = left + (right - left) / 2;
+            long long m_sq = mid * mid; 
 
             if(m_sq <= x) {
                 ans = mid;
