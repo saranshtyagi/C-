@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saranshtyagi/C-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/saranshtyagi/C-/tree/master/0069-sqrtx) |
 ## Greedy
 |  |
 | ------- |
@@ -143,5 +144,6 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/saranshtyagi/C-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saranshtyagi/C-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
