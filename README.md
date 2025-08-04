@@ -36,6 +36,7 @@
 | [0198-house-robber](https://github.com/saranshtyagi/C-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saranshtyagi/C-/tree/master/0213-house-robber-ii) |
 | [0260-single-number-iii](https://github.com/saranshtyagi/C-/tree/master/0260-single-number-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/saranshtyagi/C-/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/saranshtyagi/C-/tree/master/0485-max-consecutive-ones) |
 | [0940-fruit-into-baskets](https://github.com/saranshtyagi/C-/tree/master/0940-fruit-into-baskets) |
 | [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
@@ -81,6 +82,7 @@
 | [0140-word-break-ii](https://github.com/saranshtyagi/C-/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/saranshtyagi/C-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saranshtyagi/C-/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/saranshtyagi/C-/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/saranshtyagi/C-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/saranshtyagi/C-/tree/master/0392-is-subsequence) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
@@ -136,6 +138,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saranshtyagi/C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/saranshtyagi/C-/tree/master/0069-sqrtx) |
+| [0300-longest-increasing-subsequence](https://github.com/saranshtyagi/C-/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
 |  |
 | ------- |
