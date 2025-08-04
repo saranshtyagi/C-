@@ -5,7 +5,7 @@ private:
         if(currIdx >= nums.size()) {
             return 0;
         }
-        if(t[prevIdx][currIdx] != -1 && prevIdx != -1) {
+        if(prevIdx != -1 && t[prevIdx][currIdx] != -1) {
             return t[prevIdx][currIdx];
         }
         int take = 0;
