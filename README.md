@@ -41,6 +41,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0940-fruit-into-baskets](https://github.com/saranshtyagi/C-/tree/master/0940-fruit-into-baskets) |
 | [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
+| [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1331-path-with-maximum-gold](https://github.com/saranshtyagi/C-/tree/master/1331-path-with-maximum-gold) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/saranshtyagi/C-/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -74,6 +75,7 @@
 | [0140-word-break-ii](https://github.com/saranshtyagi/C-/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/saranshtyagi/C-/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/saranshtyagi/C-/tree/master/0392-is-subsequence) |
+| [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/saranshtyagi/C-/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Dynamic Programming
 |  |
@@ -87,6 +89,7 @@
 | [0338-counting-bits](https://github.com/saranshtyagi/C-/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/saranshtyagi/C-/tree/master/0392-is-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
+| [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/saranshtyagi/C-/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Matrix
@@ -120,6 +123,7 @@
 | [0140-word-break-ii](https://github.com/saranshtyagi/C-/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/saranshtyagi/C-/tree/master/0242-valid-anagram) |
 | [0940-fruit-into-baskets](https://github.com/saranshtyagi/C-/tree/master/0940-fruit-into-baskets) |
+| [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saranshtyagi/C-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
@@ -131,11 +135,13 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0392-is-subsequence](https://github.com/saranshtyagi/C-/tree/master/0392-is-subsequence) |
+| [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/saranshtyagi/C-/tree/master/0242-valid-anagram) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
+| [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 ## Binary Search
 |  |
 | ------- |
