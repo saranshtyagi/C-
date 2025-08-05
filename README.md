@@ -49,6 +49,7 @@
 | [2022-maximum-alternating-subsequence-sum](https://github.com/saranshtyagi/C-/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/saranshtyagi/C-/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saranshtyagi/C-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/saranshtyagi/C-/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/saranshtyagi/C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/saranshtyagi/C-/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/saranshtyagi/C-/tree/master/0300-longest-increasing-subsequence) |
+| [3790-fruits-into-baskets-ii](https://github.com/saranshtyagi/C-/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -177,4 +179,16 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/saranshtyagi/C-/tree/master/0940-fruit-into-baskets) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/saranshtyagi/C-/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/saranshtyagi/C-/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/saranshtyagi/C-/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
