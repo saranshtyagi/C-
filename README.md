@@ -177,6 +177,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/saranshtyagi/C-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saranshtyagi/C-/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/saranshtyagi/C-/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/saranshtyagi/C-/tree/master/0368-largest-divisible-subset) |
 ## Sliding Window
 |  |
@@ -194,4 +195,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/saranshtyagi/C-/tree/master/3790-fruits-into-baskets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/saranshtyagi/C-/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
