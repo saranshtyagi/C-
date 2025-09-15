@@ -84,6 +84,7 @@
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/saranshtyagi/C-/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/saranshtyagi/C-/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/saranshtyagi/C-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/saranshtyagi/C-/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Dynamic Programming
 |  |
@@ -141,6 +142,7 @@
 | [0242-valid-anagram](https://github.com/saranshtyagi/C-/tree/master/0242-valid-anagram) |
 | [0940-fruit-into-baskets](https://github.com/saranshtyagi/C-/tree/master/0940-fruit-into-baskets) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/saranshtyagi/C-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saranshtyagi/C-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
