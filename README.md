@@ -40,6 +40,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/saranshtyagi/C-/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/saranshtyagi/C-/tree/master/0368-largest-divisible-subset) |
 | [0485-max-consecutive-ones](https://github.com/saranshtyagi/C-/tree/master/0485-max-consecutive-ones) |
+| [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0940-fruit-into-baskets](https://github.com/saranshtyagi/C-/tree/master/0940-fruit-into-baskets) |
 | [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
@@ -162,6 +163,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/saranshtyagi/C-/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/saranshtyagi/C-/tree/master/0392-is-subsequence) |
+| [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/saranshtyagi/C-/tree/master/0647-palindromic-substrings) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 ## Sorting
@@ -169,6 +171,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/saranshtyagi/C-/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/saranshtyagi/C-/tree/master/0368-largest-divisible-subset) |
+| [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 ## Binary Search
@@ -177,10 +180,12 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/saranshtyagi/C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/saranshtyagi/C-/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/saranshtyagi/C-/tree/master/0300-longest-increasing-subsequence) |
+| [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/saranshtyagi/C-/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saranshtyagi/C-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Trie
