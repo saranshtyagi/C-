@@ -210,6 +210,7 @@
 | [0326-power-of-three](https://github.com/saranshtyagi/C-/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/saranshtyagi/C-/tree/master/0368-largest-divisible-subset) |
 | [0830-largest-triangle-area](https://github.com/saranshtyagi/C-/tree/master/0830-largest-triangle-area) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/saranshtyagi/C-/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Sliding Window
 |  |
 | ------- |
