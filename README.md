@@ -48,6 +48,7 @@
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1331-path-with-maximum-gold](https://github.com/saranshtyagi/C-/tree/master/1331-path-with-maximum-gold) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saranshtyagi/C-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/saranshtyagi/C-/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/saranshtyagi/C-/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/saranshtyagi/C-/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -210,6 +211,7 @@
 | [0326-power-of-three](https://github.com/saranshtyagi/C-/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/saranshtyagi/C-/tree/master/0368-largest-divisible-subset) |
 | [0830-largest-triangle-area](https://github.com/saranshtyagi/C-/tree/master/0830-largest-triangle-area) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saranshtyagi/C-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/saranshtyagi/C-/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Sliding Window
 |  |
