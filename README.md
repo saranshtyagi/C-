@@ -83,6 +83,7 @@
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/saranshtyagi/C-/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/saranshtyagi/C-/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/saranshtyagi/C-/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/saranshtyagi/C-/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/saranshtyagi/C-/tree/master/0165-compare-version-numbers) |
@@ -103,6 +104,7 @@
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/saranshtyagi/C-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/saranshtyagi/C-/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/saranshtyagi/C-/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/saranshtyagi/C-/tree/master/0120-triangle) |
 | [0140-word-break-ii](https://github.com/saranshtyagi/C-/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/saranshtyagi/C-/tree/master/0198-house-robber) |
