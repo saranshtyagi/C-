@@ -54,6 +54,7 @@
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/saranshtyagi/C-/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/saranshtyagi/C-/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/saranshtyagi/C-/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/saranshtyagi/C-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saranshtyagi/C-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saranshtyagi/C-/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/saranshtyagi/C-/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -223,6 +224,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/saranshtyagi/C-/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saranshtyagi/C-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/saranshtyagi/C-/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/saranshtyagi/C-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3830-find-closest-person](https://github.com/saranshtyagi/C-/tree/master/3830-find-closest-person) |
 ## Sliding Window
 |  |
@@ -235,6 +237,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/saranshtyagi/C-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/saranshtyagi/C-/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -253,4 +256,8 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/saranshtyagi/C-/tree/master/0830-largest-triangle-area) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/saranshtyagi/C-/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
