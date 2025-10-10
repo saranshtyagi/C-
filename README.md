@@ -59,6 +59,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/saranshtyagi/C-/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saranshtyagi/C-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saranshtyagi/C-/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saranshtyagi/C-/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saranshtyagi/C-/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/saranshtyagi/C-/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saranshtyagi/C-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -290,5 +291,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saranshtyagi/C-/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/saranshtyagi/C-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
