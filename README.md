@@ -170,6 +170,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/saranshtyagi/C-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/saranshtyagi/C-/tree/master/0242-valid-anagram) |
 | [0940-fruit-into-baskets](https://github.com/saranshtyagi/C-/tree/master/0940-fruit-into-baskets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/saranshtyagi/C-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saranshtyagi/C-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1612-avoid-flood-in-the-city](https://github.com/saranshtyagi/C-/tree/master/1612-avoid-flood-in-the-city) |
@@ -237,6 +238,7 @@
 | [0326-power-of-three](https://github.com/saranshtyagi/C-/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/saranshtyagi/C-/tree/master/0368-largest-divisible-subset) |
 | [0830-largest-triangle-area](https://github.com/saranshtyagi/C-/tree/master/0830-largest-triangle-area) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/saranshtyagi/C-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/saranshtyagi/C-/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saranshtyagi/C-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/saranshtyagi/C-/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
