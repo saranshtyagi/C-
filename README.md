@@ -32,6 +32,7 @@
 | [0039-combination-sum](https://github.com/saranshtyagi/C-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/saranshtyagi/C-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saranshtyagi/C-/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/saranshtyagi/C-/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/saranshtyagi/C-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/saranshtyagi/C-/tree/master/0120-triangle) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/saranshtyagi/C-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/saranshtyagi/C-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/saranshtyagi/C-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/saranshtyagi/C-/tree/master/0091-decode-ways) |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saranshtyagi/C-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/saranshtyagi/C-/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/saranshtyagi/C-/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
