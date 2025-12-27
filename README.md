@@ -34,6 +34,7 @@
 | [0078-subsets](https://github.com/saranshtyagi/C-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/saranshtyagi/C-/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/saranshtyagi/C-/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/saranshtyagi/C-/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/saranshtyagi/C-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/saranshtyagi/C-/tree/master/0198-house-robber) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/saranshtyagi/C-/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/saranshtyagi/C-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/saranshtyagi/C-/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/saranshtyagi/C-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/saranshtyagi/C-/tree/master/0268-missing-number) |
