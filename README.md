@@ -36,6 +36,7 @@
 | [0078-subsets](https://github.com/saranshtyagi/C-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/saranshtyagi/C-/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saranshtyagi/C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/saranshtyagi/C-/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/saranshtyagi/C-/tree/master/0140-word-break-ii) |
 | [0189-rotate-array](https://github.com/saranshtyagi/C-/tree/master/0189-rotate-array) |
@@ -125,6 +126,7 @@
 | [0072-edit-distance](https://github.com/saranshtyagi/C-/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/saranshtyagi/C-/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/saranshtyagi/C-/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saranshtyagi/C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/saranshtyagi/C-/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/saranshtyagi/C-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saranshtyagi/C-/tree/master/0213-house-robber-ii) |
