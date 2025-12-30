@@ -53,6 +53,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/saranshtyagi/C-/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/saranshtyagi/C-/tree/master/0368-largest-divisible-subset) |
 | [0485-max-consecutive-ones](https://github.com/saranshtyagi/C-/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/saranshtyagi/C-/tree/master/0704-binary-search) |
@@ -239,6 +240,7 @@
 | [0162-find-peak-element](https://github.com/saranshtyagi/C-/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/saranshtyagi/C-/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/saranshtyagi/C-/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/saranshtyagi/C-/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/saranshtyagi/C-/tree/master/0794-swim-in-rising-water) |
