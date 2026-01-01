@@ -36,6 +36,7 @@
 | [0046-permutations](https://github.com/saranshtyagi/C-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saranshtyagi/C-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/saranshtyagi/C-/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/saranshtyagi/C-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/saranshtyagi/C-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saranshtyagi/C-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -275,6 +276,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/saranshtyagi/C-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/saranshtyagi/C-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saranshtyagi/C-/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/saranshtyagi/C-/tree/master/0166-fraction-to-recurring-decimal) |
