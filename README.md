@@ -78,6 +78,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/saranshtyagi/C-/tree/master/1612-avoid-flood-in-the-city) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/saranshtyagi/C-/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saranshtyagi/C-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1975-maximum-matrix-sum](https://github.com/saranshtyagi/C-/tree/master/1975-maximum-matrix-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/saranshtyagi/C-/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saranshtyagi/C-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saranshtyagi/C-/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -168,6 +169,7 @@
 | [0794-swim-in-rising-water](https://github.com/saranshtyagi/C-/tree/master/0794-swim-in-rising-water) |
 | [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/saranshtyagi/C-/tree/master/1331-path-with-maximum-gold) |
+| [1975-maximum-matrix-sum](https://github.com/saranshtyagi/C-/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saranshtyagi/C-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saranshtyagi/C-/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/saranshtyagi/C-/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -268,6 +270,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [1018-largest-perimeter-triangle](https://github.com/saranshtyagi/C-/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/saranshtyagi/C-/tree/master/1612-avoid-flood-in-the-city) |
+| [1975-maximum-matrix-sum](https://github.com/saranshtyagi/C-/tree/master/1975-maximum-matrix-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saranshtyagi/C-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Trie
 |  |
