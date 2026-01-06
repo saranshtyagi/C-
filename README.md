@@ -57,6 +57,7 @@
 | [0455-assign-cookies](https://github.com/saranshtyagi/C-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/saranshtyagi/C-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/saranshtyagi/C-/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/saranshtyagi/C-/tree/master/0704-binary-search) |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/saranshtyagi/C-/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/saranshtyagi/C-/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/saranshtyagi/C-/tree/master/0860-lemonade-change) |
