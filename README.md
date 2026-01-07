@@ -66,6 +66,7 @@
 | [0830-largest-triangle-area](https://github.com/saranshtyagi/C-/tree/master/0830-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/saranshtyagi/C-/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/saranshtyagi/C-/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/saranshtyagi/C-/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saranshtyagi/C-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saranshtyagi/C-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -237,6 +238,7 @@
 | [0455-assign-cookies](https://github.com/saranshtyagi/C-/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/saranshtyagi/C-/tree/master/0647-palindromic-substrings) |
+| [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saranshtyagi/C-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -249,6 +251,7 @@
 | [0455-assign-cookies](https://github.com/saranshtyagi/C-/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
+| [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/saranshtyagi/C-/tree/master/1018-largest-perimeter-triangle) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/saranshtyagi/C-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -286,6 +289,7 @@
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/saranshtyagi/C-/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/saranshtyagi/C-/tree/master/1018-largest-perimeter-triangle) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/saranshtyagi/C-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/saranshtyagi/C-/tree/master/1612-avoid-flood-in-the-city) |
