@@ -48,6 +48,7 @@
 | [0140-word-break-ii](https://github.com/saranshtyagi/C-/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saranshtyagi/C-/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/saranshtyagi/C-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/saranshtyagi/C-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/saranshtyagi/C-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/saranshtyagi/C-/tree/master/0213-house-robber-ii) |
@@ -134,6 +135,7 @@
 | [0140-word-break-ii](https://github.com/saranshtyagi/C-/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/saranshtyagi/C-/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/saranshtyagi/C-/tree/master/0166-fraction-to-recurring-decimal) |
+| [0179-largest-number](https://github.com/saranshtyagi/C-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/saranshtyagi/C-/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/saranshtyagi/C-/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/saranshtyagi/C-/tree/master/0392-is-subsequence) |
@@ -250,6 +252,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/saranshtyagi/C-/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/saranshtyagi/C-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saranshtyagi/C-/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/saranshtyagi/C-/tree/master/0368-largest-divisible-subset) |
@@ -290,6 +293,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/saranshtyagi/C-/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/saranshtyagi/C-/tree/master/0316-remove-duplicate-letters) |
 | [0330-patching-array](https://github.com/saranshtyagi/C-/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/saranshtyagi/C-/tree/master/0402-remove-k-digits) |
