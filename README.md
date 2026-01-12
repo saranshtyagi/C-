@@ -46,6 +46,7 @@
 | [0120-triangle](https://github.com/saranshtyagi/C-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saranshtyagi/C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/saranshtyagi/C-/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/saranshtyagi/C-/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/saranshtyagi/C-/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/saranshtyagi/C-/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -301,6 +302,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/saranshtyagi/C-/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/saranshtyagi/C-/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/saranshtyagi/C-/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/saranshtyagi/C-/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/saranshtyagi/C-/tree/master/0316-remove-duplicate-letters) |
 | [0330-patching-array](https://github.com/saranshtyagi/C-/tree/master/0330-patching-array) |
