@@ -35,6 +35,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/saranshtyagi/C-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/saranshtyagi/C-/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/saranshtyagi/C-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/saranshtyagi/C-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saranshtyagi/C-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/saranshtyagi/C-/tree/master/0053-maximum-subarray) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/saranshtyagi/C-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/saranshtyagi/C-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/saranshtyagi/C-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/saranshtyagi/C-/tree/master/0072-edit-distance) |
@@ -297,6 +299,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/saranshtyagi/C-/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/saranshtyagi/C-/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/saranshtyagi/C-/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/saranshtyagi/C-/tree/master/0316-remove-duplicate-letters) |
