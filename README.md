@@ -70,6 +70,7 @@
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/saranshtyagi/C-/tree/master/0704-binary-search) |
+| [0757-set-intersection-size-at-least-two](https://github.com/saranshtyagi/C-/tree/master/0757-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/saranshtyagi/C-/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/saranshtyagi/C-/tree/master/0830-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/saranshtyagi/C-/tree/master/0860-lemonade-change) |
@@ -268,6 +269,7 @@
 | [0455-assign-cookies](https://github.com/saranshtyagi/C-/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
+| [0757-set-intersection-size-at-least-two](https://github.com/saranshtyagi/C-/tree/master/0757-set-intersection-size-at-least-two) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/saranshtyagi/C-/tree/master/1018-largest-perimeter-triangle) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
@@ -313,6 +315,7 @@
 | [0605-can-place-flowers](https://github.com/saranshtyagi/C-/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
+| [0757-set-intersection-size-at-least-two](https://github.com/saranshtyagi/C-/tree/master/0757-set-intersection-size-at-least-two) |
 | [0763-partition-labels](https://github.com/saranshtyagi/C-/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/saranshtyagi/C-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
