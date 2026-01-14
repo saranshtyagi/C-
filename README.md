@@ -68,6 +68,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/saranshtyagi/C-/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/saranshtyagi/C-/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/saranshtyagi/C-/tree/master/0704-binary-search) |
 | [0757-set-intersection-size-at-least-two](https://github.com/saranshtyagi/C-/tree/master/0757-set-intersection-size-at-least-two) |
@@ -226,6 +227,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/saranshtyagi/C-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/saranshtyagi/C-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/saranshtyagi/C-/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/saranshtyagi/C-/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/saranshtyagi/C-/tree/master/0763-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/saranshtyagi/C-/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saranshtyagi/C-/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -268,6 +270,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/saranshtyagi/C-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/saranshtyagi/C-/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/saranshtyagi/C-/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0757-set-intersection-size-at-least-two](https://github.com/saranshtyagi/C-/tree/master/0757-set-intersection-size-at-least-two) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
@@ -314,6 +317,7 @@
 | [0455-assign-cookies](https://github.com/saranshtyagi/C-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/saranshtyagi/C-/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/saranshtyagi/C-/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0757-set-intersection-size-at-least-two](https://github.com/saranshtyagi/C-/tree/master/0757-set-intersection-size-at-least-two) |
 | [0763-partition-labels](https://github.com/saranshtyagi/C-/tree/master/0763-partition-labels) |
@@ -390,6 +394,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/saranshtyagi/C-/tree/master/0621-task-scheduler) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saranshtyagi/C-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saranshtyagi/C-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Geometry
@@ -412,6 +417,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/saranshtyagi/C-/tree/master/0621-task-scheduler) |
 | [0794-swim-in-rising-water](https://github.com/saranshtyagi/C-/tree/master/0794-swim-in-rising-water) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/saranshtyagi/C-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/saranshtyagi/C-/tree/master/1612-avoid-flood-in-the-city) |
