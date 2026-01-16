@@ -19,11 +19,10 @@ public:
                 maxHeap.push(projects[index].second);
                 index++;
             }
-            if(maxHeap.empty()) {
-                break;
+            if(!maxHeap.empty()) {
+                w += maxHeap.top();
+                maxHeap.pop();
             }
-            w += maxHeap.top();
-            maxHeap.pop();
         }
         return w;
     }
