@@ -79,6 +79,7 @@
 | [0860-lemonade-change](https://github.com/saranshtyagi/C-/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/saranshtyagi/C-/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
+| [0910-smallest-range-ii](https://github.com/saranshtyagi/C-/tree/master/0910-smallest-range-ii) |
 | [0940-fruit-into-baskets](https://github.com/saranshtyagi/C-/tree/master/0940-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/saranshtyagi/C-/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saranshtyagi/C-/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -282,6 +283,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0757-set-intersection-size-at-least-two](https://github.com/saranshtyagi/C-/tree/master/0757-set-intersection-size-at-least-two) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
+| [0910-smallest-range-ii](https://github.com/saranshtyagi/C-/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/saranshtyagi/C-/tree/master/0948-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/saranshtyagi/C-/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/saranshtyagi/C-/tree/master/1029-two-city-scheduling) |
@@ -336,6 +338,7 @@
 | [0763-partition-labels](https://github.com/saranshtyagi/C-/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/saranshtyagi/C-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
+| [0910-smallest-range-ii](https://github.com/saranshtyagi/C-/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/saranshtyagi/C-/tree/master/0948-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/saranshtyagi/C-/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/saranshtyagi/C-/tree/master/1029-two-city-scheduling) |
@@ -367,6 +370,7 @@
 | [0326-power-of-three](https://github.com/saranshtyagi/C-/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/saranshtyagi/C-/tree/master/0368-largest-divisible-subset) |
 | [0830-largest-triangle-area](https://github.com/saranshtyagi/C-/tree/master/0830-largest-triangle-area) |
+| [0910-smallest-range-ii](https://github.com/saranshtyagi/C-/tree/master/0910-smallest-range-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/saranshtyagi/C-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/saranshtyagi/C-/tree/master/1018-largest-perimeter-triangle) |
 | [1390-four-divisors](https://github.com/saranshtyagi/C-/tree/master/1390-four-divisors) |
