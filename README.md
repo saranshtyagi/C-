@@ -65,6 +65,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/saranshtyagi/C-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/saranshtyagi/C-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/saranshtyagi/C-/tree/master/0485-max-consecutive-ones) |
+| [0502-ipo](https://github.com/saranshtyagi/C-/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/saranshtyagi/C-/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
@@ -270,6 +271,7 @@
 | [0435-non-overlapping-intervals](https://github.com/saranshtyagi/C-/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/saranshtyagi/C-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/saranshtyagi/C-/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/saranshtyagi/C-/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/saranshtyagi/C-/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/saranshtyagi/C-/tree/master/0630-course-schedule-iii) |
@@ -317,6 +319,7 @@
 | [0435-non-overlapping-intervals](https://github.com/saranshtyagi/C-/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/saranshtyagi/C-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/saranshtyagi/C-/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/saranshtyagi/C-/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/saranshtyagi/C-/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/saranshtyagi/C-/tree/master/0621-task-scheduler) |
@@ -420,6 +423,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/saranshtyagi/C-/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/saranshtyagi/C-/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/saranshtyagi/C-/tree/master/0630-course-schedule-iii) |
 | [0794-swim-in-rising-water](https://github.com/saranshtyagi/C-/tree/master/0794-swim-in-rising-water) |
