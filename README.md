@@ -80,6 +80,7 @@
 | [0875-koko-eating-bananas](https://github.com/saranshtyagi/C-/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/saranshtyagi/C-/tree/master/0940-fruit-into-baskets) |
+| [0948-bag-of-tokens](https://github.com/saranshtyagi/C-/tree/master/0948-bag-of-tokens) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saranshtyagi/C-/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saranshtyagi/C-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/saranshtyagi/C-/tree/master/1018-largest-perimeter-triangle) |
@@ -261,6 +262,7 @@
 | [0647-palindromic-substrings](https://github.com/saranshtyagi/C-/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/saranshtyagi/C-/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/saranshtyagi/C-/tree/master/0948-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saranshtyagi/C-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -280,6 +282,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0757-set-intersection-size-at-least-two](https://github.com/saranshtyagi/C-/tree/master/0757-set-intersection-size-at-least-two) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/saranshtyagi/C-/tree/master/0948-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/saranshtyagi/C-/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/saranshtyagi/C-/tree/master/1029-two-city-scheduling) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
@@ -333,6 +336,7 @@
 | [0763-partition-labels](https://github.com/saranshtyagi/C-/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/saranshtyagi/C-/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/saranshtyagi/C-/tree/master/0948-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/saranshtyagi/C-/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/saranshtyagi/C-/tree/master/1029-two-city-scheduling) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/saranshtyagi/C-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
