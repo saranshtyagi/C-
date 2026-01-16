@@ -77,6 +77,7 @@
 | [0794-swim-in-rising-water](https://github.com/saranshtyagi/C-/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/saranshtyagi/C-/tree/master/0830-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/saranshtyagi/C-/tree/master/0860-lemonade-change) |
+| [0870-advantage-shuffle](https://github.com/saranshtyagi/C-/tree/master/0870-advantage-shuffle) |
 | [0875-koko-eating-bananas](https://github.com/saranshtyagi/C-/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/saranshtyagi/C-/tree/master/0910-smallest-range-ii) |
@@ -262,6 +263,7 @@
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/saranshtyagi/C-/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/saranshtyagi/C-/tree/master/0763-partition-labels) |
+| [0870-advantage-shuffle](https://github.com/saranshtyagi/C-/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/saranshtyagi/C-/tree/master/0948-bag-of-tokens) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
@@ -282,6 +284,7 @@
 | [0630-course-schedule-iii](https://github.com/saranshtyagi/C-/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0757-set-intersection-size-at-least-two](https://github.com/saranshtyagi/C-/tree/master/0757-set-intersection-size-at-least-two) |
+| [0870-advantage-shuffle](https://github.com/saranshtyagi/C-/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/saranshtyagi/C-/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/saranshtyagi/C-/tree/master/0948-bag-of-tokens) |
@@ -337,6 +340,7 @@
 | [0757-set-intersection-size-at-least-two](https://github.com/saranshtyagi/C-/tree/master/0757-set-intersection-size-at-least-two) |
 | [0763-partition-labels](https://github.com/saranshtyagi/C-/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/saranshtyagi/C-/tree/master/0860-lemonade-change) |
+| [0870-advantage-shuffle](https://github.com/saranshtyagi/C-/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/saranshtyagi/C-/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/saranshtyagi/C-/tree/master/0948-bag-of-tokens) |
