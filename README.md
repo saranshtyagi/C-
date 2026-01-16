@@ -87,6 +87,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/saranshtyagi/C-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saranshtyagi/C-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/saranshtyagi/C-/tree/master/1288-remove-covered-intervals) |
 | [1331-path-with-maximum-gold](https://github.com/saranshtyagi/C-/tree/master/1331-path-with-maximum-gold) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/saranshtyagi/C-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1390-four-divisors](https://github.com/saranshtyagi/C-/tree/master/1390-four-divisors) |
@@ -280,6 +281,7 @@
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/saranshtyagi/C-/tree/master/1018-largest-perimeter-triangle) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
+| [1288-remove-covered-intervals](https://github.com/saranshtyagi/C-/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/saranshtyagi/C-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/saranshtyagi/C-/tree/master/1710-maximum-units-on-a-truck) |
 | [2887-sort-vowels-in-a-string](https://github.com/saranshtyagi/C-/tree/master/2887-sort-vowels-in-a-string) |
