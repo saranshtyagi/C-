@@ -463,4 +463,8 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/saranshtyagi/C-/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/saranshtyagi/C-/tree/master/0402-remove-k-digits) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/saranshtyagi/C-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
