@@ -92,6 +92,7 @@
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saranshtyagi/C-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/saranshtyagi/C-/tree/master/1288-remove-covered-intervals) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/saranshtyagi/C-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-path-with-maximum-gold](https://github.com/saranshtyagi/C-/tree/master/1331-path-with-maximum-gold) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/saranshtyagi/C-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1390-four-divisors](https://github.com/saranshtyagi/C-/tree/master/1390-four-divisors) |
@@ -190,6 +191,7 @@
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/saranshtyagi/C-/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/saranshtyagi/C-/tree/master/1250-longest-common-subsequence) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/saranshtyagi/C-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/saranshtyagi/C-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/saranshtyagi/C-/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -348,6 +350,7 @@
 | [0948-bag-of-tokens](https://github.com/saranshtyagi/C-/tree/master/0948-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/saranshtyagi/C-/tree/master/1018-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/saranshtyagi/C-/tree/master/1029-two-city-scheduling) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/saranshtyagi/C-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/saranshtyagi/C-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/saranshtyagi/C-/tree/master/1612-avoid-flood-in-the-city) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/saranshtyagi/C-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
