@@ -78,6 +78,7 @@
 | [0830-largest-triangle-area](https://github.com/saranshtyagi/C-/tree/master/0830-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/saranshtyagi/C-/tree/master/0860-lemonade-change) |
 | [0870-advantage-shuffle](https://github.com/saranshtyagi/C-/tree/master/0870-advantage-shuffle) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/saranshtyagi/C-/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/saranshtyagi/C-/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/saranshtyagi/C-/tree/master/0910-smallest-range-ii) |
@@ -187,6 +188,7 @@
 | [0435-non-overlapping-intervals](https://github.com/saranshtyagi/C-/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/saranshtyagi/C-/tree/master/0647-palindromic-substrings) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/saranshtyagi/C-/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/saranshtyagi/C-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/saranshtyagi/C-/tree/master/1170-shortest-common-supersequence) |
@@ -345,6 +347,7 @@
 | [0763-partition-labels](https://github.com/saranshtyagi/C-/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/saranshtyagi/C-/tree/master/0860-lemonade-change) |
 | [0870-advantage-shuffle](https://github.com/saranshtyagi/C-/tree/master/0870-advantage-shuffle) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/saranshtyagi/C-/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/saranshtyagi/C-/tree/master/0910-smallest-range-ii) |
 | [0948-bag-of-tokens](https://github.com/saranshtyagi/C-/tree/master/0948-bag-of-tokens) |
@@ -450,6 +453,7 @@
 | [0621-task-scheduler](https://github.com/saranshtyagi/C-/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/saranshtyagi/C-/tree/master/0630-course-schedule-iii) |
 | [0794-swim-in-rising-water](https://github.com/saranshtyagi/C-/tree/master/0794-swim-in-rising-water) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/saranshtyagi/C-/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/saranshtyagi/C-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/saranshtyagi/C-/tree/master/1612-avoid-flood-in-the-city) |
 ## Prefix Sum
