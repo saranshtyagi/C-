@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saranshtyagi/C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saranshtyagi/C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [2446-determine-if-two-events-have-conflict](https://github.com/saranshtyagi/C-/tree/master/2446-determine-if-two-events-have-conflict) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saranshtyagi/C-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saranshtyagi/C-/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saranshtyagi/C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/saranshtyagi/C-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/saranshtyagi/C-/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saranshtyagi/C-/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -254,6 +256,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saranshtyagi/C-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1612-avoid-flood-in-the-city](https://github.com/saranshtyagi/C-/tree/master/1612-avoid-flood-in-the-city) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saranshtyagi/C-/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saranshtyagi/C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saranshtyagi/C-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saranshtyagi/C-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
@@ -418,12 +421,14 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/saranshtyagi/C-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saranshtyagi/C-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/saranshtyagi/C-/tree/master/3336-water-bottles-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saranshtyagi/C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saranshtyagi/C-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/saranshtyagi/C-/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/saranshtyagi/C-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Ordered Set
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saranshtyagi/C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/saranshtyagi/C-/tree/master/3790-fruits-into-baskets-ii) |
 ## Recursion
 |  |
@@ -464,6 +469,7 @@
 | [0871-minimum-number-of-refueling-stops](https://github.com/saranshtyagi/C-/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/saranshtyagi/C-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/saranshtyagi/C-/tree/master/1612-avoid-flood-in-the-city) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saranshtyagi/C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -484,4 +490,8 @@
 | [0584-find-customer-referee](https://github.com/saranshtyagi/C-/tree/master/0584-find-customer-referee) |
 | [1148-article-views-i](https://github.com/saranshtyagi/C-/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/saranshtyagi/C-/tree/master/1757-recyclable-and-low-fat-products) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saranshtyagi/C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
