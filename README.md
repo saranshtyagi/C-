@@ -106,6 +106,7 @@
 | [1390-four-divisors](https://github.com/saranshtyagi/C-/tree/master/1390-four-divisors) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saranshtyagi/C-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1470-shuffle-the-array](https://github.com/saranshtyagi/C-/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saranshtyagi/C-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/saranshtyagi/C-/tree/master/1612-avoid-flood-in-the-city) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/saranshtyagi/C-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
