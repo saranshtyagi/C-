@@ -8,15 +8,15 @@ public:
 
         int i = 0; 
 
-        while(i < n) {
-            xArray[i] = nums[i];
-            i++;
+        for(int i = 0; i < 2*n; i++) {
+            if(i < n) {
+                xArray[i] = nums[i];
+            }
+            else {
+                yArray[i%n] = nums[i];
+            }
         }
 
-        while(i < 2*n) {
-            yArray[i%n] = nums[i];
-            i++;
-        }
         int xIndex = 0; 
         int yIndex = 0;
         for(int i = 0; i < 2*n; i++) {
