@@ -153,6 +153,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saranshtyagi/C-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/saranshtyagi/C-/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/saranshtyagi/C-/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/saranshtyagi/C-/tree/master/0091-decode-ways) |
