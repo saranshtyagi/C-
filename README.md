@@ -115,6 +115,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saranshtyagi/C-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/saranshtyagi/C-/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/saranshtyagi/C-/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saranshtyagi/C-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/saranshtyagi/C-/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saranshtyagi/C-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saranshtyagi/C-/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -312,6 +313,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/saranshtyagi/C-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/saranshtyagi/C-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/saranshtyagi/C-/tree/master/1710-maximum-units-on-a-truck) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saranshtyagi/C-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2887-sort-vowels-in-a-string](https://github.com/saranshtyagi/C-/tree/master/2887-sort-vowels-in-a-string) |
 ## Binary Search
 |  |
@@ -413,6 +415,7 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/saranshtyagi/C-/tree/master/0940-fruit-into-baskets) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saranshtyagi/C-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Segment Tree
 |  |
 | ------- |
