@@ -153,6 +153,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/saranshtyagi/C-/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saranshtyagi/C-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/saranshtyagi/C-/tree/master/0058-length-of-last-word) |
