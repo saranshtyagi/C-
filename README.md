@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/saranshtyagi/C-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saranshtyagi/C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saranshtyagi/C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
@@ -443,6 +444,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/saranshtyagi/C-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0326-power-of-three](https://github.com/saranshtyagi/C-/tree/master/0326-power-of-three) |
 ## Counting
 |  |
