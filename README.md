@@ -182,6 +182,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saranshtyagi/C-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/saranshtyagi/C-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saranshtyagi/C-/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/saranshtyagi/C-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/saranshtyagi/C-/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2887-sort-vowels-in-a-string](https://github.com/saranshtyagi/C-/tree/master/2887-sort-vowels-in-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saranshtyagi/C-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -419,6 +420,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/saranshtyagi/C-/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/saranshtyagi/C-/tree/master/1642-water-bottles) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saranshtyagi/C-/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/saranshtyagi/C-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saranshtyagi/C-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/saranshtyagi/C-/tree/master/3336-water-bottles-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/saranshtyagi/C-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -431,6 +433,7 @@
 | [0567-permutation-in-string](https://github.com/saranshtyagi/C-/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/saranshtyagi/C-/tree/master/0940-fruit-into-baskets) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saranshtyagi/C-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/saranshtyagi/C-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saranshtyagi/C-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Segment Tree
 |  |
