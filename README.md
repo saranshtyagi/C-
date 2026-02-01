@@ -126,6 +126,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/saranshtyagi/C-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/saranshtyagi/C-/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saranshtyagi/C-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/saranshtyagi/C-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saranshtyagi/C-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saranshtyagi/C-/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saranshtyagi/C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/saranshtyagi/C-/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/saranshtyagi/C-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -328,6 +330,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/saranshtyagi/C-/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saranshtyagi/C-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2887-sort-vowels-in-a-string](https://github.com/saranshtyagi/C-/tree/master/2887-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/saranshtyagi/C-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Binary Search
 |  |
 | ------- |
