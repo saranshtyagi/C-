@@ -129,6 +129,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saranshtyagi/C-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/saranshtyagi/C-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saranshtyagi/C-/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3379-transformed-array](https://github.com/saranshtyagi/C-/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/saranshtyagi/C-/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saranshtyagi/C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/saranshtyagi/C-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -452,6 +453,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/saranshtyagi/C-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/saranshtyagi/C-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/saranshtyagi/C-/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/saranshtyagi/C-/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saranshtyagi/C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/saranshtyagi/C-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/saranshtyagi/C-/tree/master/3790-fruits-into-baskets-ii) |
