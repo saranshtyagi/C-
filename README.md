@@ -522,6 +522,7 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/saranshtyagi/C-/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0197-rising-temperature](https://github.com/saranshtyagi/C-/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/saranshtyagi/C-/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/saranshtyagi/C-/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/saranshtyagi/C-/tree/master/1148-article-views-i) |
