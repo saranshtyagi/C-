@@ -528,6 +528,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/saranshtyagi/C-/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/saranshtyagi/C-/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/saranshtyagi/C-/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/saranshtyagi/C-/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/saranshtyagi/C-/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/saranshtyagi/C-/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/saranshtyagi/C-/tree/master/0607-sales-person) |
