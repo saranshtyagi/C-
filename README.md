@@ -10,6 +10,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saranshtyagi/C-/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saranshtyagi/C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/saranshtyagi/C-/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/saranshtyagi/C-/tree/master/0402-remove-k-digits) |
@@ -47,6 +48,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/saranshtyagi/C-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/saranshtyagi/C-/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/saranshtyagi/C-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/saranshtyagi/C-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/saranshtyagi/C-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/saranshtyagi/C-/tree/master/0051-n-queens) |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/saranshtyagi/C-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/saranshtyagi/C-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/saranshtyagi/C-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/saranshtyagi/C-/tree/master/0070-climbing-stairs) |
@@ -292,6 +295,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saranshtyagi/C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saranshtyagi/C-/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/saranshtyagi/C-/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/saranshtyagi/C-/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/saranshtyagi/C-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/saranshtyagi/C-/tree/master/0283-move-zeroes) |
@@ -519,6 +523,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saranshtyagi/C-/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/saranshtyagi/C-/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/saranshtyagi/C-/tree/master/0402-remove-k-digits) |
 ## Database
