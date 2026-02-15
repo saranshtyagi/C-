@@ -169,6 +169,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saranshtyagi/C-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/saranshtyagi/C-/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/saranshtyagi/C-/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/saranshtyagi/C-/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/saranshtyagi/C-/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/saranshtyagi/C-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/saranshtyagi/C-/tree/master/0091-decode-ways) |
@@ -243,6 +244,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saranshtyagi/C-/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/saranshtyagi/C-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/saranshtyagi/C-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/saranshtyagi/C-/tree/master/0191-number-of-1-bits) |
@@ -418,6 +420,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/saranshtyagi/C-/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/saranshtyagi/C-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/saranshtyagi/C-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/saranshtyagi/C-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/saranshtyagi/C-/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/saranshtyagi/C-/tree/master/0166-fraction-to-recurring-decimal) |
@@ -458,6 +461,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saranshtyagi/C-/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/saranshtyagi/C-/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/saranshtyagi/C-/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saranshtyagi/C-/tree/master/2149-rearrange-array-elements-by-sign) |
