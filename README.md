@@ -247,6 +247,7 @@
 | [0067-add-binary](https://github.com/saranshtyagi/C-/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/saranshtyagi/C-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/saranshtyagi/C-/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/saranshtyagi/C-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saranshtyagi/C-/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/saranshtyagi/C-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/saranshtyagi/C-/tree/master/0268-missing-number) |
@@ -293,6 +294,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saranshtyagi/C-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/saranshtyagi/C-/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/saranshtyagi/C-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saranshtyagi/C-/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
