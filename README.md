@@ -254,6 +254,7 @@
 | [0268-missing-number](https://github.com/saranshtyagi/C-/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/saranshtyagi/C-/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/saranshtyagi/C-/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/saranshtyagi/C-/tree/master/0693-binary-number-with-alternating-bits) |
 | [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/saranshtyagi/C-/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
