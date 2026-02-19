@@ -186,6 +186,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/saranshtyagi/C-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/saranshtyagi/C-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/saranshtyagi/C-/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/saranshtyagi/C-/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/saranshtyagi/C-/tree/master/0763-partition-labels) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/saranshtyagi/C-/tree/master/1170-shortest-common-supersequence) |
@@ -313,6 +314,7 @@
 | [0567-permutation-in-string](https://github.com/saranshtyagi/C-/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/saranshtyagi/C-/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/saranshtyagi/C-/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/saranshtyagi/C-/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/saranshtyagi/C-/tree/master/0763-partition-labels) |
 | [0870-advantage-shuffle](https://github.com/saranshtyagi/C-/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
