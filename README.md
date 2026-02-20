@@ -187,6 +187,7 @@
 | [0567-permutation-in-string](https://github.com/saranshtyagi/C-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/saranshtyagi/C-/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/saranshtyagi/C-/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/saranshtyagi/C-/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/saranshtyagi/C-/tree/master/0763-partition-labels) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/saranshtyagi/C-/tree/master/1170-shortest-common-supersequence) |
@@ -300,6 +301,7 @@
 | [0053-maximum-subarray](https://github.com/saranshtyagi/C-/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/saranshtyagi/C-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/saranshtyagi/C-/tree/master/0191-number-of-1-bits) |
+| [0761-special-binary-string](https://github.com/saranshtyagi/C-/tree/master/0761-special-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | [0630-course-schedule-iii](https://github.com/saranshtyagi/C-/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0757-set-intersection-size-at-least-two](https://github.com/saranshtyagi/C-/tree/master/0757-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/saranshtyagi/C-/tree/master/0761-special-binary-string) |
 | [0870-advantage-shuffle](https://github.com/saranshtyagi/C-/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/saranshtyagi/C-/tree/master/0881-boats-to-save-people) |
 | [0910-smallest-range-ii](https://github.com/saranshtyagi/C-/tree/master/0910-smallest-range-ii) |
