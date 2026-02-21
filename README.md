@@ -257,6 +257,7 @@
 | [0338-counting-bits](https://github.com/saranshtyagi/C-/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/saranshtyagi/C-/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/saranshtyagi/C-/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/saranshtyagi/C-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/saranshtyagi/C-/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -438,6 +439,7 @@
 | [0268-missing-number](https://github.com/saranshtyagi/C-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/saranshtyagi/C-/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/saranshtyagi/C-/tree/master/0368-largest-divisible-subset) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/saranshtyagi/C-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/saranshtyagi/C-/tree/master/0830-largest-triangle-area) |
 | [0910-smallest-range-ii](https://github.com/saranshtyagi/C-/tree/master/0910-smallest-range-ii) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/saranshtyagi/C-/tree/master/1015-smallest-integer-divisible-by-k) |
