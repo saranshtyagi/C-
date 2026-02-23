@@ -194,6 +194,7 @@
 | [1250-longest-common-subsequence](https://github.com/saranshtyagi/C-/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saranshtyagi/C-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/saranshtyagi/C-/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/saranshtyagi/C-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saranshtyagi/C-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/saranshtyagi/C-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/saranshtyagi/C-/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -261,6 +262,7 @@
 | [0868-binary-gap](https://github.com/saranshtyagi/C-/tree/master/0868-binary-gap) |
 | [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/saranshtyagi/C-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/saranshtyagi/C-/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 ## Bitmask
 |  |
@@ -290,6 +292,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/saranshtyagi/C-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saranshtyagi/C-/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/saranshtyagi/C-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/saranshtyagi/C-/tree/master/1612-avoid-flood-in-the-city) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saranshtyagi/C-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saranshtyagi/C-/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -570,4 +573,12 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/saranshtyagi/C-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/saranshtyagi/C-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/saranshtyagi/C-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
