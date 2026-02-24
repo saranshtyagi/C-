@@ -21,6 +21,7 @@
 | [0110-balanced-binary-tree](https://github.com/saranshtyagi/C-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saranshtyagi/C-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saranshtyagi/C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/saranshtyagi/C-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/saranshtyagi/C-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saranshtyagi/C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/saranshtyagi/C-/tree/master/0794-swim-in-rising-water) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/saranshtyagi/C-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | [0110-balanced-binary-tree](https://github.com/saranshtyagi/C-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saranshtyagi/C-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saranshtyagi/C-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/saranshtyagi/C-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Array
 |  |
 | ------- |
