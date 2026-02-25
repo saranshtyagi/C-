@@ -115,6 +115,7 @@
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/saranshtyagi/C-/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-path-with-maximum-gold](https://github.com/saranshtyagi/C-/tree/master/1331-path-with-maximum-gold) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/saranshtyagi/C-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saranshtyagi/C-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/saranshtyagi/C-/tree/master/1390-four-divisors) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saranshtyagi/C-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -264,6 +265,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/saranshtyagi/C-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/saranshtyagi/C-/tree/master/0868-binary-gap) |
 | [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saranshtyagi/C-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1418-fair-distribution-of-cookies](https://github.com/saranshtyagi/C-/tree/master/1418-fair-distribution-of-cookies) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/saranshtyagi/C-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/saranshtyagi/C-/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -358,6 +360,7 @@
 | [1200-minimum-absolute-difference](https://github.com/saranshtyagi/C-/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/saranshtyagi/C-/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/saranshtyagi/C-/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saranshtyagi/C-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/saranshtyagi/C-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/saranshtyagi/C-/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/saranshtyagi/C-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -505,6 +508,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/saranshtyagi/C-/tree/master/0621-task-scheduler) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saranshtyagi/C-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/saranshtyagi/C-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/saranshtyagi/C-/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Geometry
