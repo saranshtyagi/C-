@@ -193,6 +193,7 @@
 | [0696-count-binary-substrings](https://github.com/saranshtyagi/C-/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/saranshtyagi/C-/tree/master/0761-special-binary-string) |
 | [0763-partition-labels](https://github.com/saranshtyagi/C-/tree/master/0763-partition-labels) |
+| [1092-shortest-common-supersequence](https://github.com/saranshtyagi/C-/tree/master/1092-shortest-common-supersequence) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/saranshtyagi/C-/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/saranshtyagi/C-/tree/master/1250-longest-common-subsequence) |
@@ -228,6 +229,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/saranshtyagi/C-/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/saranshtyagi/C-/tree/master/0647-palindromic-substrings) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/saranshtyagi/C-/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1092-shortest-common-supersequence](https://github.com/saranshtyagi/C-/tree/master/1092-shortest-common-supersequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/saranshtyagi/C-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1129-longest-string-chain](https://github.com/saranshtyagi/C-/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/saranshtyagi/C-/tree/master/1170-shortest-common-supersequence) |
