@@ -200,6 +200,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/saranshtyagi/C-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/saranshtyagi/C-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/saranshtyagi/C-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/saranshtyagi/C-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saranshtyagi/C-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/saranshtyagi/C-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/saranshtyagi/C-/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -486,6 +487,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/saranshtyagi/C-/tree/master/0067-add-binary) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/saranshtyagi/C-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/saranshtyagi/C-/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/saranshtyagi/C-/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saranshtyagi/C-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -506,6 +508,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/saranshtyagi/C-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0326-power-of-three](https://github.com/saranshtyagi/C-/tree/master/0326-power-of-three) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/saranshtyagi/C-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Counting
 |  |
 | ------- |
