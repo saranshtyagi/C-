@@ -121,6 +121,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/saranshtyagi/C-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/saranshtyagi/C-/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saranshtyagi/C-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/saranshtyagi/C-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/saranshtyagi/C-/tree/master/1612-avoid-flood-in-the-city) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/saranshtyagi/C-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/saranshtyagi/C-/tree/master/1710-maximum-units-on-a-truck) |
@@ -248,6 +249,7 @@
 | [0794-swim-in-rising-water](https://github.com/saranshtyagi/C-/tree/master/0794-swim-in-rising-water) |
 | [1022-unique-paths-iii](https://github.com/saranshtyagi/C-/tree/master/1022-unique-paths-iii) |
 | [1331-path-with-maximum-gold](https://github.com/saranshtyagi/C-/tree/master/1331-path-with-maximum-gold) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/saranshtyagi/C-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/saranshtyagi/C-/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saranshtyagi/C-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/saranshtyagi/C-/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
