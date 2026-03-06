@@ -202,6 +202,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/saranshtyagi/C-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/saranshtyagi/C-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/saranshtyagi/C-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/saranshtyagi/C-/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/saranshtyagi/C-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/saranshtyagi/C-/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/saranshtyagi/C-/tree/master/2446-determine-if-two-events-have-conflict) |
