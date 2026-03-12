@@ -398,6 +398,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/saranshtyagi/C-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saranshtyagi/C-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/saranshtyagi/C-/tree/master/1612-avoid-flood-in-the-city) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/saranshtyagi/C-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3790-fruits-into-baskets-ii](https://github.com/saranshtyagi/C-/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
@@ -434,6 +435,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/saranshtyagi/C-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1710-maximum-units-on-a-truck](https://github.com/saranshtyagi/C-/tree/master/1710-maximum-units-on-a-truck) |
 | [1975-maximum-matrix-sum](https://github.com/saranshtyagi/C-/tree/master/1975-maximum-matrix-sum) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/saranshtyagi/C-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/saranshtyagi/C-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Trie
 |  |
@@ -600,4 +602,16 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/saranshtyagi/C-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/saranshtyagi/C-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/saranshtyagi/C-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/saranshtyagi/C-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
